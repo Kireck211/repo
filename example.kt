@@ -9,5 +9,5 @@ fun main(args: Array<String>) {
     i--
   }
   
-  println("${numbers[i]}")
+  println("Hola")
 }
