@@ -6,6 +6,6 @@ fun main(args: Array<String>) {
   var i = numbers.size - 1
   while(i > 0) {
     print("${numbers[i]} ")
-    i--
+    i-=10
   }
 }
